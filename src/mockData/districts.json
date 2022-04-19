@@ -1,0 +1,147 @@
+[
+    {
+      "area": "Toronto",
+      "key": "Central Toronto",
+      "value": "Central Toronto"
+    },
+    {
+      "area": "Toronto",
+      "key": "East York",
+      "value": "East York"
+    },
+    {
+      "area": "Toronto",
+      "key": "Etobicoke",
+      "value": "Etobicoke"
+    },
+    {
+      "area": "Toronto",
+      "key": "North York",
+      "value": "North York"
+    },
+    {
+      "area": "Toronto",
+      "key": "Scarborough",
+      "value": "Scarborough"
+    },
+    {
+      "area": "York",
+      "key": "Vaughan",
+      "value": "Vaughan"
+    },
+    {
+      "area": "York",
+      "key": "Richmond Hill",
+      "value": "Richmond Hill"
+    },
+    {
+      "area": "York",
+      "key": "Markham",
+      "value": "Markham"
+    },
+    {
+      "area": "York",
+      "key": "King",
+      "value": "King"
+    },
+    {
+      "area": "York",
+      "key": "Aurora",
+      "value": "Aurora"
+    },
+    {
+      "area": "York",
+      "key": "Newmarket",
+      "value": "Newmarket"
+    },
+    {
+      "area": "York",
+      "key": "Whitchurch-Stouffville",
+      "value": "Whitchurch-Stouffville"
+    },
+    {
+      "area": "York",
+      "key": "East Gwillimbury",
+      "value": "East Gwillimbury"
+    },
+    {
+      "area": "York",
+      "key": "Georgina",
+      "value": "Georgina"
+    },
+    {
+      "area": "York",
+      "key": "Georgina Islands",
+      "value": "Georgina Islands"
+    },
+    {
+      "area": "Durham",
+      "key": "Pickering",
+      "value": "Pickering"
+    },
+    {
+      "area": "Durham",
+      "key": "Ajax",
+      "value": "Ajax"
+    },
+    {
+      "area": "Durham",
+      "key": "Whitby",
+      "value": "Whitby"
+    },
+    {
+      "area": "Durham",
+      "key": "Oshawa",
+      "value": "Oshawa"
+    },
+    {
+      "area": "Durham",
+      "key": "Clarington",
+      "value": "Clarington"
+    },
+    {
+      "area": "Durham",
+      "key": "Uxbridge",
+      "value": "Uxbridge"
+    },
+    {
+      "area": "Durham",
+      "key": "Scugog",
+      "value": "Scugog"
+    },
+    {
+      "area": "Durham",
+      "key": "Brock",
+      "value": "Brock"
+    },
+    {
+      "area": "Halton",
+      "key": "Burlington",
+      "value": "Burlington"
+    },
+    {
+      "area": "Halton",
+      "key": "Halton Hills",
+      "value": "Halton Hills"
+    },
+    {
+      "area": "Halton",
+      "key": "Milton",
+      "value": "Milton"
+    },
+    {
+      "area": "Halton",
+      "key": "Oakville",
+      "value": "Oakville"
+    },
+    {
+      "area": "Peel",
+      "key": "Caledon",
+      "value": "Caledon"
+    },
+    {
+      "area": "Peel",
+      "key": "Mississauga",
+      "value": "Mississauga"
+    }
+  ]

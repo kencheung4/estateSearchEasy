@@ -1,0 +1,2786 @@
+[
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Alexandra Park",
+      "value": "Alexandra Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Allenby",
+      "value": "Allenby"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Bay Street Corridor",
+      "value": "Bay Street Corridor"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Beaconsfield",
+      "value": "Beaconsfield"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Bedford Park",
+      "value": "Bedford Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "SEE",
+      "value": "SEE"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Bickford Park",
+      "value": "Bickford Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Bloor West Village",
+      "value": "Bloor West Village"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Brockton Village",
+      "value": "Brockton Village"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Cabbagetown",
+      "value": "Cabbagetown"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Carleton Village",
+      "value": "Carleton Village"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Casa Loma",
+      "value": "Casa Loma"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Chaplin Estates",
+      "value": "Chaplin Estates"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Chinatown",
+      "value": "Chinatown"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Christie Pits",
+      "value": "Christie Pits"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Church and Wellesley",
+      "value": "Church and Wellesley"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Cityplace",
+      "value": "Cityplace"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "CNE",
+      "value": "CNE"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Corktown",
+      "value": "Corktown"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Danforth Mosaic",
+      "value": "Danforth Mosaic"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Davenport",
+      "value": "Davenport"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Davisville",
+      "value": "Davisville"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Deer Park",
+      "value": "Deer Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Distillery District",
+      "value": "Distillery District"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Dovercourt Park",
+      "value": "Dovercourt Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Dufferin Grove",
+      "value": "Dufferin Grove"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Earlscourt - Corso Italia",
+      "value": "Earlscourt - Corso Italia"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Entertainment District",
+      "value": "Entertainment District"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Fashion District",
+      "value": "Fashion District"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Financial District",
+      "value": "Financial District"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Forest Hill",
+      "value": "Forest Hill"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Forest Hill North",
+      "value": "Forest Hill North"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Fort York",
+      "value": "Fort York"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Harbourfront",
+      "value": "Harbourfront"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Harbourfront East",
+      "value": "Harbourfront East"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Harwood",
+      "value": "Harwood"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "High Park",
+      "value": "High Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Hillcrest",
+      "value": "Hillcrest"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Jarvis Street Corridor",
+      "value": "Jarvis Street Corridor"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Kensington Market",
+      "value": "Kensington Market"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Leslieville",
+      "value": "Leslieville"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Liberty Village",
+      "value": "Liberty Village"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Little Italy",
+      "value": "Little Italy"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Lytton Park",
+      "value": "Lytton Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Moore Park",
+      "value": "Moore Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Moss Park",
+      "value": "Moss Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "North Toronto",
+      "value": "North Toronto"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Playter Estates",
+      "value": "Playter Estates"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Port Lands",
+      "value": "Port Lands"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Rathnelly",
+      "value": "Rathnelly"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Regal Heights",
+      "value": "Regal Heights"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Regent Park",
+      "value": "Regent Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Riverdale",
+      "value": "Riverdale"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Riverside",
+      "value": "Riverside"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Roncesvalles",
+      "value": "Roncesvalles"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Rosedale",
+      "value": "Rosedale"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Seaton Village",
+      "value": "Seaton Village"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "South Annex",
+      "value": "South Annex"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "South Core",
+      "value": "South Core"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "South Hill",
+      "value": "South Hill"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "South Parkdale",
+      "value": "South Parkdale"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "St. James",
+      "value": "St. James"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "St. James Town",
+      "value": "St. James Town"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "St. Lawrence",
+      "value": "St. Lawrence"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Summerhill",
+      "value": "Summerhill"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Swansea",
+      "value": "Swansea"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Teddington Park",
+      "value": "Teddington Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "The Annex",
+      "value": "The Annex"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "The Beach",
+      "value": "The Beach"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "The Danforth",
+      "value": "The Danforth"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "The Islands",
+      "value": "The Islands"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "The Junction",
+      "value": "The Junction"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "The Pocket-Blake-Jones",
+      "value": "The Pocket-Blake-Jones"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Trinity Bellwoods",
+      "value": "Trinity Bellwoods"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Trinity Niagara",
+      "value": "Trinity Niagara"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "University",
+      "value": "University"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Upper Beach",
+      "value": "Upper Beach"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Wallace Emerson",
+      "value": "Wallace Emerson"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "West Don Lands",
+      "value": "West Don Lands"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Woodbine Corridor",
+      "value": "Woodbine Corridor"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Yonge-Dundas Square",
+      "value": "Yonge-Dundas Square"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Yorkville",
+      "value": "Yorkville"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Old York",
+      "value": "Old York"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Baby Point",
+      "value": "Baby Point"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Beechborough-Greenbrook",
+      "value": "Beechborough-Greenbrook"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Briar Hill - Belgravia",
+      "value": "Briar Hill - Belgravia"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Fairbank",
+      "value": "Fairbank"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "Humewood-Cedarvale",
+      "value": "Humewood-Cedarvale"
+    },
+    {
+      "area": "Toronto",
+      "district": "Central Toronto",
+      "key": "SEE",
+      "value": "SEE"
+    },
+    {
+      "area": "Toronto",
+      "district": "East York",
+      "key": "Bennington Heights",
+      "value": "Bennington Heights"
+    },
+    {
+      "area": "Toronto",
+      "district": "East York",
+      "key": "Broadview North",
+      "value": "Broadview North"
+    },
+    {
+      "area": "Toronto",
+      "district": "East York",
+      "key": "Central East York",
+      "value": "Central East York"
+    },
+    {
+      "area": "Toronto",
+      "district": "East York",
+      "key": "Crescent Town",
+      "value": "Crescent Town"
+    },
+    {
+      "area": "Toronto",
+      "district": "East York",
+      "key": "Leaside",
+      "value": "Leaside"
+    },
+    {
+      "area": "Toronto",
+      "district": "East York",
+      "key": "Old East York",
+      "value": "Old East York"
+    },
+    {
+      "area": "Toronto",
+      "district": "East York",
+      "key": "Parkview Hills",
+      "value": "Parkview Hills"
+    },
+    {
+      "area": "Toronto",
+      "district": "East York",
+      "key": "Thorncliffe Park",
+      "value": "Thorncliffe Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "East York",
+      "key": "Topham Park",
+      "value": "Topham Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "East York",
+      "key": "Woodbine Gardens",
+      "value": "Woodbine Gardens"
+    },
+    {
+      "area": "Toronto",
+      "district": "East York",
+      "key": "Woodbine Heights",
+      "value": "Woodbine Heights"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Alderwood",
+      "value": "Alderwood"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Centenial Park",
+      "value": "Centenial Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Clairville",
+      "value": "Clairville"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Eatonville",
+      "value": "Eatonville"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Etobicoke West Mall",
+      "value": "Etobicoke West Mall"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Humber Bay",
+      "value": "Humber Bay"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Humber Heights",
+      "value": "Humber Heights"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Humber Valley Village",
+      "value": "Humber Valley Village"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Islington Village",
+      "value": "Islington Village"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Kingsview",
+      "value": "Kingsview"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Long Branch",
+      "value": "Long Branch"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Markland Wood",
+      "value": "Markland Wood"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Mimico",
+      "value": "Mimico"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "New Toronto",
+      "value": "New Toronto"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Princess-Rosethorn",
+      "value": "Princess-Rosethorn"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Queensway West",
+      "value": "Queensway West"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Rexdale",
+      "value": "Rexdale"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Richview",
+      "value": "Richview"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Smithfield",
+      "value": "Smithfield"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Sunnylea",
+      "value": "Sunnylea"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "The Elms",
+      "value": "The Elms"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "The Kingsway",
+      "value": "The Kingsway"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "The Queensway",
+      "value": "The Queensway"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "Thistletown",
+      "value": "Thistletown"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "West Deane Park",
+      "value": "West Deane Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Etobicoke",
+      "key": "West Humber",
+      "value": "West Humber"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Armour Heights",
+      "value": "Armour Heights"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Banbury",
+      "value": "Banbury"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Bathurst Manor",
+      "value": "Bathurst Manor"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Bayview Village",
+      "value": "Bayview Village"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Bayview Woods",
+      "value": "Bayview Woods"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Bermondsey",
+      "value": "Bermondsey"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Black Creek",
+      "value": "Black Creek"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Bridle Path",
+      "value": "Bridle Path"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Brookhaven-Amesbury",
+      "value": "Brookhaven-Amesbury"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Caribou Park",
+      "value": "Caribou Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Clanton Park",
+      "value": "Clanton Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Cricket Club",
+      "value": "Cricket Club"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Don Mills",
+      "value": "Don Mills"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Don Valley Village",
+      "value": "Don Valley Village"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Donalda",
+      "value": "Donalda"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Downsview",
+      "value": "Downsview"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Flemingdon Park",
+      "value": "Flemingdon Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Glen Park",
+      "value": "Glen Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Glenfield - Jane Heights",
+      "value": "Glenfield - Jane Heights"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Graydon Hall",
+      "value": "Graydon Hall"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Henry Farm",
+      "value": "Henry Farm"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Hillcrest Village - North York",
+      "value": "Hillcrest Village - North York"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Hoggs Hollow",
+      "value": "Hoggs Hollow"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Humber Summit",
+      "value": "Humber Summit"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Humberlea",
+      "value": "Humberlea"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Humbermede",
+      "value": "Humbermede"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Lansing",
+      "value": "Lansing"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Lawrence Manor",
+      "value": "Lawrence Manor"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Lawrence Park",
+      "value": "Lawrence Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Ledbury Park",
+      "value": "Ledbury Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Maple Leaf",
+      "value": "Maple Leaf"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Newtonbrook",
+      "value": "Newtonbrook"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Parkwoods",
+      "value": "Parkwoods"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Pelmo Park",
+      "value": "Pelmo Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Pleasant View",
+      "value": "Pleasant View"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Rustic",
+      "value": "Rustic"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Victoria Village",
+      "value": "Victoria Village"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Wanless Park",
+      "value": "Wanless Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Westminster-Branson",
+      "value": "Westminster-Branson"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Willowdale",
+      "value": "Willowdale"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "York Mills",
+      "value": "York Mills"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "York University Heights",
+      "value": "York University Heights"
+    },
+    {
+      "area": "Toronto",
+      "district": "North York",
+      "key": "Yorkdale",
+      "value": "Yorkdale"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Agincourt",
+      "value": "Agincourt"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Bendale",
+      "value": "Bendale"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Birchcliff",
+      "value": "Birchcliff"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Birchmount Park",
+      "value": "Birchmount Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Clairlea",
+      "value": "Clairlea"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Cliffcrest",
+      "value": "Cliffcrest"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Cliffside",
+      "value": "Cliffside"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Dorset Park",
+      "value": "Dorset Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Eglinton East",
+      "value": "Eglinton East"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Guildwood",
+      "value": "Guildwood"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Highland Creek",
+      "value": "Highland Creek"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Ionview",
+      "value": "Ionview"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Kennedy Park",
+      "value": "Kennedy Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "L'Amoreaux",
+      "value": "L'Amoreaux"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Malvern",
+      "value": "Malvern"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Maryvale",
+      "value": "Maryvale"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Milliken",
+      "value": "Milliken"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Morningside",
+      "value": "Morningside"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Morningside Heights",
+      "value": "Morningside Heights"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Oakridge",
+      "value": "Oakridge"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Port Union",
+      "value": "Port Union"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Rouge Park",
+      "value": "Rouge Park"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Scarborough Village",
+      "value": "Scarborough Village"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Steeles",
+      "value": "Steeles"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Tam O'Shanter Sullivan",
+      "value": "Tam O'Shanter Sullivan"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "West Hill",
+      "value": "West Hill"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "West Rouge",
+      "value": "West Rouge"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Wexford",
+      "value": "Wexford"
+    },
+    {
+      "area": "Toronto",
+      "district": "Scarborough",
+      "key": "Woburn",
+      "value": "Woburn"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Vaughan",
+      "value": "Vaughan"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Beverley Glen",
+      "value": "Beverley Glen"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Brownridge",
+      "value": "Brownridge"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Concord",
+      "value": "Concord"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Crestwood-Springfarm-Yorkhill",
+      "value": "Crestwood-Springfarm-Yorkhill"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "East Woodbridge",
+      "value": "East Woodbridge"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Elder Mills",
+      "value": "Elder Mills"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Glen Shields",
+      "value": "Glen Shields"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Islington Woods",
+      "value": "Islington Woods"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Kleinburg",
+      "value": "Kleinburg"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Lakeview Estates",
+      "value": "Lakeview Estates"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Maple",
+      "value": "Maple"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Patterson",
+      "value": "Patterson"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Pine Valley Business Park",
+      "value": "Pine Valley Business Park"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Rural Vaughan",
+      "value": "Rural Vaughan"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Sonoma Heights",
+      "value": "Sonoma Heights"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Steeles West Industrial",
+      "value": "Steeles West Industrial"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Uplands",
+      "value": "Uplands"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Vaughan Corporate Centre",
+      "value": "Vaughan Corporate Centre"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Vaughan Grove",
+      "value": "Vaughan Grove"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "Vellore Village",
+      "value": "Vellore Village"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "West Woodbridge",
+      "value": "West Woodbridge"
+    },
+    {
+      "area": "York",
+      "district": "Vaughan",
+      "key": "West Woodbridge Industrial Area",
+      "value": "West Woodbridge Industrial Area"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Bayview Hill",
+      "value": "Bayview Hill"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Beaver Creek Business Park",
+      "value": "Beaver Creek Business Park"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Crosby",
+      "value": "Crosby"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Devonsleigh",
+      "value": "Devonsleigh"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Doncrest",
+      "value": "Doncrest"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Harding",
+      "value": "Harding"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Headford Business Park",
+      "value": "Headford Business Park"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Jefferson",
+      "value": "Jefferson"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Langstaff",
+      "value": "Langstaff"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Mill Pond",
+      "value": "Mill Pond"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "North Richvale",
+      "value": "North Richvale"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Oak Ridges",
+      "value": "Oak Ridges"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Oak Ridges Lake Wilcox",
+      "value": "Oak Ridges Lake Wilcox"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Observatory",
+      "value": "Observatory"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Rouge Woods",
+      "value": "Rouge Woods"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Rural Richmond Hill",
+      "value": "Rural Richmond Hill"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "South Richvale",
+      "value": "South Richvale"
+    },
+    {
+      "area": "York",
+      "district": "Richmond Hill",
+      "key": "Westbrook",
+      "value": "Westbrook"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Markham",
+      "value": "Markham"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Aileen-Willowbrook",
+      "value": "Aileen-Willowbrook"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Angus Glen",
+      "value": "Angus Glen"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Bayview Fairway-Bayview Country Club Estates",
+      "value": "Bayview Fairway-Bayview Country Club Estates"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Bayview Glen",
+      "value": "Bayview Glen"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Berczy",
+      "value": "Berczy"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Box Grove",
+      "value": "Box Grove"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Bullock",
+      "value": "Bullock"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Buttonville",
+      "value": "Buttonville"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Cachet",
+      "value": "Cachet"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Cathedraltown",
+      "value": "Cathedraltown"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Cedar Grove",
+      "value": "Cedar Grove"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Cedarwood",
+      "value": "Cedarwood"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Commerce Valley",
+      "value": "Commerce Valley"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Cornell",
+      "value": "Cornell"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Devil's Elbow",
+      "value": "Devil's Elbow"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "German Mills",
+      "value": "German Mills"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Grandview",
+      "value": "Grandview"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Greensborough",
+      "value": "Greensborough"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Langstaff South",
+      "value": "Langstaff South"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Legacy",
+      "value": "Legacy"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Markham Village",
+      "value": "Markham Village"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Markville",
+      "value": "Markville"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Middlefield",
+      "value": "Middlefield"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Milliken Mills East",
+      "value": "Milliken Mills East"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Milliken Mills West",
+      "value": "Milliken Mills West"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Old Markham Village",
+      "value": "Old Markham Village"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Raymerville",
+      "value": "Raymerville"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Rouge Fairways",
+      "value": "Rouge Fairways"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Rouge River Estates",
+      "value": "Rouge River Estates"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Royal Orchard",
+      "value": "Royal Orchard"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Rural Markham",
+      "value": "Rural Markham"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Sherwood-Amberglen",
+      "value": "Sherwood-Amberglen"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Thornhill",
+      "value": "Thornhill"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Thornlea",
+      "value": "Thornlea"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Unionville",
+      "value": "Unionville"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Victoria Manor-Jennings Gate",
+      "value": "Victoria Manor-Jennings Gate"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Victoria Square",
+      "value": "Victoria Square"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Village Green-South Unionville",
+      "value": "Village Green-South Unionville"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Vinegar Hill",
+      "value": "Vinegar Hill"
+    },
+    {
+      "area": "York",
+      "district": "Markham",
+      "key": "Wismer",
+      "value": "Wismer"
+    },
+    {
+      "area": "York",
+      "district": "King",
+      "key": "King City",
+      "value": "King City"
+    },
+    {
+      "area": "York",
+      "district": "King",
+      "key": "Nobleton",
+      "value": "Nobleton"
+    },
+    {
+      "area": "York",
+      "district": "King",
+      "key": "Pottageville",
+      "value": "Pottageville"
+    },
+    {
+      "area": "York",
+      "district": "King",
+      "key": "Rural King",
+      "value": "Rural King"
+    },
+    {
+      "area": "York",
+      "district": "King",
+      "key": "Schomberg",
+      "value": "Schomberg"
+    },
+    {
+      "area": "York",
+      "district": "Aurora",
+      "key": "Aurora Estates",
+      "value": "Aurora Estates"
+    },
+    {
+      "area": "York",
+      "district": "Aurora",
+      "key": "Aurora Grove",
+      "value": "Aurora Grove"
+    },
+    {
+      "area": "York",
+      "district": "Aurora",
+      "key": "Aurora Heights",
+      "value": "Aurora Heights"
+    },
+    {
+      "area": "York",
+      "district": "Aurora",
+      "key": "Aurora Highlands",
+      "value": "Aurora Highlands"
+    },
+    {
+      "area": "York",
+      "district": "Aurora",
+      "key": "Aurora Village",
+      "value": "Aurora Village"
+    },
+    {
+      "area": "York",
+      "district": "Aurora",
+      "key": "Bayview Northeast",
+      "value": "Bayview Northeast"
+    },
+    {
+      "area": "York",
+      "district": "Aurora",
+      "key": "Bayview Southeast",
+      "value": "Bayview Southeast"
+    },
+    {
+      "area": "York",
+      "district": "Aurora",
+      "key": "Bayview Wellington",
+      "value": "Bayview Wellington"
+    },
+    {
+      "area": "York",
+      "district": "Aurora",
+      "key": "Hills Of St Andrew",
+      "value": "Hills Of St Andrew"
+    },
+    {
+      "area": "York",
+      "district": "Aurora",
+      "key": "Rural Aurora",
+      "value": "Rural Aurora"
+    },
+    {
+      "area": "York",
+      "district": "Newmarket",
+      "key": "Armitage",
+      "value": "Armitage"
+    },
+    {
+      "area": "York",
+      "district": "Newmarket",
+      "key": "Bristol-London",
+      "value": "Bristol-London"
+    },
+    {
+      "area": "York",
+      "district": "Newmarket",
+      "key": "Central Newmarket",
+      "value": "Central Newmarket"
+    },
+    {
+      "area": "York",
+      "district": "Newmarket",
+      "key": "Glenway Estates",
+      "value": "Glenway Estates"
+    },
+    {
+      "area": "York",
+      "district": "Newmarket",
+      "key": "Gorham-College Manor",
+      "value": "Gorham-College Manor"
+    },
+    {
+      "area": "York",
+      "district": "Newmarket",
+      "key": "Huron Heights-Leslie Valley",
+      "value": "Huron Heights-Leslie Valley"
+    },
+    {
+      "area": "York",
+      "district": "Newmarket",
+      "key": "Newmarket Industrial Park",
+      "value": "Newmarket Industrial Park"
+    },
+    {
+      "area": "York",
+      "district": "Newmarket",
+      "key": "Stonehaven-Wyndham",
+      "value": "Stonehaven-Wyndham"
+    },
+    {
+      "area": "York",
+      "district": "Newmarket",
+      "key": "Summerhill Estates",
+      "value": "Summerhill Estates"
+    },
+    {
+      "area": "York",
+      "district": "Newmarket",
+      "key": "Woodland Hill",
+      "value": "Woodland Hill"
+    },
+    {
+      "area": "York",
+      "district": "Whitchurch-Stouffville",
+      "key": "Ballantrae",
+      "value": "Ballantrae"
+    },
+    {
+      "area": "York",
+      "district": "Whitchurch-Stouffville",
+      "key": "Rural Whitchurch-Stouffville",
+      "value": "Rural Whitchurch-Stouffville"
+    },
+    {
+      "area": "York",
+      "district": "Whitchurch-Stouffville",
+      "key": "Stouffville",
+      "value": "Stouffville"
+    },
+    {
+      "area": "York",
+      "district": "East Gwillimbury",
+      "key": "Holland Landing",
+      "value": "Holland Landing"
+    },
+    {
+      "area": "York",
+      "district": "East Gwillimbury",
+      "key": "Mt Albert",
+      "value": "Mt Albert"
+    },
+    {
+      "area": "York",
+      "district": "East Gwillimbury",
+      "key": "Queensville",
+      "value": "Queensville"
+    },
+    {
+      "area": "York",
+      "district": "East Gwillimbury",
+      "key": "Rural East Gwillimbury",
+      "value": "Rural East Gwillimbury"
+    },
+    {
+      "area": "York",
+      "district": "East Gwillimbury",
+      "key": "Sharon",
+      "value": "Sharon"
+    },
+    {
+      "area": "York",
+      "district": "Georgina",
+      "key": "Baldwin",
+      "value": "Baldwin"
+    },
+    {
+      "area": "York",
+      "district": "Georgina",
+      "key": "Belhaven",
+      "value": "Belhaven"
+    },
+    {
+      "area": "York",
+      "district": "Georgina",
+      "key": "Historic Lakeshore Communities",
+      "value": "Historic Lakeshore Communities"
+    },
+    {
+      "area": "York",
+      "district": "Georgina",
+      "key": "Keswick North",
+      "value": "Keswick North"
+    },
+    {
+      "area": "York",
+      "district": "Georgina",
+      "key": "Keswick South",
+      "value": "Keswick South"
+    },
+    {
+      "area": "York",
+      "district": "Georgina",
+      "key": "Pefferlaw",
+      "value": "Pefferlaw"
+    },
+    {
+      "area": "York",
+      "district": "Georgina",
+      "key": "Sutton & Jackson's Point",
+      "value": "Sutton & Jackson's Point"
+    },
+    {
+      "area": "York",
+      "district": "Georgina",
+      "key": "Virginia",
+      "value": "Virginia"
+    },
+    {
+      "area": "York",
+      "district": "Georgina Islands",
+      "key": "Georgina Island",
+      "value": "Georgina Island"
+    },
+    {
+      "area": "York",
+      "district": "Georgina Islands",
+      "key": "Snake Island",
+      "value": "Snake Island"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "Amberlea",
+      "value": "Amberlea"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "Bay Ridges",
+      "value": "Bay Ridges"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "Brock Industrial",
+      "value": "Brock Industrial"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "Brock Ridge",
+      "value": "Brock Ridge"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "Duffin Heights",
+      "value": "Duffin Heights"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "Dunbarton",
+      "value": "Dunbarton"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "Highbush",
+      "value": "Highbush"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "Liverpool",
+      "value": "Liverpool"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "Rosebank",
+      "value": "Rosebank"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "Rouge Park",
+      "value": "Rouge Park"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "Rougemount",
+      "value": "Rougemount"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "Rural Pickering",
+      "value": "Rural Pickering"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "Town Centre",
+      "value": "Town Centre"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "Village East",
+      "value": "Village East"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "West Shore",
+      "value": "West Shore"
+    },
+    {
+      "area": "Durham",
+      "district": "Pickering",
+      "key": "Woodlands",
+      "value": "Woodlands"
+    },
+    {
+      "area": "Durham",
+      "district": "Ajax",
+      "key": "Central",
+      "value": "Central"
+    },
+    {
+      "area": "Durham",
+      "district": "Ajax",
+      "key": "Central East",
+      "value": "Central East"
+    },
+    {
+      "area": "Durham",
+      "district": "Ajax",
+      "key": "Central West",
+      "value": "Central West"
+    },
+    {
+      "area": "Durham",
+      "district": "Ajax",
+      "key": "Northeast Ajax",
+      "value": "Northeast Ajax"
+    },
+    {
+      "area": "Durham",
+      "district": "Ajax",
+      "key": "Northwest Ajax",
+      "value": "Northwest Ajax"
+    },
+    {
+      "area": "Durham",
+      "district": "Ajax",
+      "key": "South East",
+      "value": "South East"
+    },
+    {
+      "area": "Durham",
+      "district": "Ajax",
+      "key": "South West",
+      "value": "South West"
+    },
+    {
+      "area": "Durham",
+      "district": "Whitby",
+      "key": "Blue Grass Meadows",
+      "value": "Blue Grass Meadows"
+    },
+    {
+      "area": "Durham",
+      "district": "Whitby",
+      "key": "Brooklin",
+      "value": "Brooklin"
+    },
+    {
+      "area": "Durham",
+      "district": "Whitby",
+      "key": "Downtown Whitby",
+      "value": "Downtown Whitby"
+    },
+    {
+      "area": "Durham",
+      "district": "Whitby",
+      "key": "Lynde Creek",
+      "value": "Lynde Creek"
+    },
+    {
+      "area": "Durham",
+      "district": "Whitby",
+      "key": "Port Whitby",
+      "value": "Port Whitby"
+    },
+    {
+      "area": "Durham",
+      "district": "Whitby",
+      "key": "Pringle Creek",
+      "value": "Pringle Creek"
+    },
+    {
+      "area": "Durham",
+      "district": "Whitby",
+      "key": "Rolling Acres",
+      "value": "Rolling Acres"
+    },
+    {
+      "area": "Durham",
+      "district": "Whitby",
+      "key": "Rural Whitby",
+      "value": "Rural Whitby"
+    },
+    {
+      "area": "Durham",
+      "district": "Whitby",
+      "key": "Taunton North",
+      "value": "Taunton North"
+    },
+    {
+      "area": "Durham",
+      "district": "Whitby",
+      "key": "Whitby Industrial",
+      "value": "Whitby Industrial"
+    },
+    {
+      "area": "Durham",
+      "district": "Whitby",
+      "key": "Williamsburg",
+      "value": "Williamsburg"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Beaton",
+      "value": "Beaton"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Centennial",
+      "value": "Centennial"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Central",
+      "value": "Central"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Columbus",
+      "value": "Columbus"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Donevan",
+      "value": "Donevan"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Eastdale",
+      "value": "Eastdale"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Farewell",
+      "value": "Farewell"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Kedron",
+      "value": "Kedron"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Lakeview",
+      "value": "Lakeview"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Mclaughlin",
+      "value": "Mclaughlin"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Northglen",
+      "value": "Northglen"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Northwood",
+      "value": "Northwood"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "O'Neill",
+      "value": "O'Neill"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Pinecrest",
+      "value": "Pinecrest"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Raglan",
+      "value": "Raglan"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Rural Oshawa",
+      "value": "Rural Oshawa"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Samac",
+      "value": "Samac"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Stevenson",
+      "value": "Stevenson"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Taunton",
+      "value": "Taunton"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Vanier",
+      "value": "Vanier"
+    },
+    {
+      "area": "Durham",
+      "district": "Oshawa",
+      "key": "Windfields",
+      "value": "Windfields"
+    },
+    {
+      "area": "Durham",
+      "district": "Clarington",
+      "key": "Bowmanville",
+      "value": "Bowmanville"
+    },
+    {
+      "area": "Durham",
+      "district": "Clarington",
+      "key": "Courtice",
+      "value": "Courtice"
+    },
+    {
+      "area": "Durham",
+      "district": "Clarington",
+      "key": "Newcastle",
+      "value": "Newcastle"
+    },
+    {
+      "area": "Durham",
+      "district": "Clarington",
+      "key": "Orono",
+      "value": "Orono"
+    },
+    {
+      "area": "Durham",
+      "district": "Clarington",
+      "key": "Rural Clarington",
+      "value": "Rural Clarington"
+    },
+    {
+      "area": "Durham",
+      "district": "Uxbridge",
+      "key": "Rural Uxbridge",
+      "value": "Rural Uxbridge"
+    },
+    {
+      "area": "Durham",
+      "district": "Uxbridge",
+      "key": "Uxbridge",
+      "value": "Uxbridge"
+    },
+    {
+      "area": "Durham",
+      "district": "Scugog",
+      "key": "Blackstock",
+      "value": "Blackstock"
+    },
+    {
+      "area": "Durham",
+      "district": "Scugog",
+      "key": "Port Perry",
+      "value": "Port Perry"
+    },
+    {
+      "area": "Durham",
+      "district": "Scugog",
+      "key": "Rural Scugog",
+      "value": "Rural Scugog"
+    },
+    {
+      "area": "Durham",
+      "district": "Brock",
+      "key": "Beaverton",
+      "value": "Beaverton"
+    },
+    {
+      "area": "Durham",
+      "district": "Brock",
+      "key": "Cannington",
+      "value": "Cannington"
+    },
+    {
+      "area": "Durham",
+      "district": "Brock",
+      "key": "Rural Brock",
+      "value": "Rural Brock"
+    },
+    {
+      "area": "Durham",
+      "district": "Brock",
+      "key": "Sunderland",
+      "value": "Sunderland"
+    },
+    {
+      "area": "Halton",
+      "district": "Burlington",
+      "key": "Alton",
+      "value": "Alton"
+    },
+    {
+      "area": "Halton",
+      "district": "Burlington",
+      "key": "Appleby",
+      "value": "Appleby"
+    },
+    {
+      "area": "Halton",
+      "district": "Burlington",
+      "key": "Brant",
+      "value": "Brant"
+    },
+    {
+      "area": "Halton",
+      "district": "Burlington",
+      "key": "Brant Hills",
+      "value": "Brant Hills"
+    },
+    {
+      "area": "Halton",
+      "district": "Burlington",
+      "key": "Freeman",
+      "value": "Freeman"
+    },
+    {
+      "area": "Halton",
+      "district": "Burlington",
+      "key": "Grindstone",
+      "value": "Grindstone"
+    },
+    {
+      "area": "Halton",
+      "district": "Burlington",
+      "key": "Headon",
+      "value": "Headon"
+    },
+    {
+      "area": "Halton",
+      "district": "Burlington",
+      "key": "LaSalle",
+      "value": "LaSalle"
+    },
+    {
+      "area": "Halton",
+      "district": "Burlington",
+      "key": "Orchard",
+      "value": "Orchard"
+    },
+    {
+      "area": "Halton",
+      "district": "Burlington",
+      "key": "Roseland",
+      "value": "Roseland"
+    },
+    {
+      "area": "Halton",
+      "district": "Burlington",
+      "key": "Rural Burlington",
+      "value": "Rural Burlington"
+    },
+    {
+      "area": "Halton",
+      "district": "Burlington",
+      "key": "Shoreacres",
+      "value": "Shoreacres"
+    },
+    {
+      "area": "Halton",
+      "district": "Halton Hills",
+      "key": "Georgetown",
+      "value": "Georgetown"
+    },
+    {
+      "area": "Halton",
+      "district": "Halton Hills",
+      "key": "Rural Halton Hills",
+      "value": "Rural Halton Hills"
+    },
+    {
+      "area": "Halton",
+      "district": "Halton Hills",
+      "key": "Acton",
+      "value": "Acton"
+    },
+    {
+      "area": "Halton",
+      "district": "Halton Hills",
+      "key": "Glen Williams",
+      "value": "Glen Williams"
+    },
+    {
+      "area": "Halton",
+      "district": "Halton Hills",
+      "key": "Limehouse",
+      "value": "Limehouse"
+    },
+    {
+      "area": "Halton",
+      "district": "Halton Hills",
+      "key": "Stewarttown",
+      "value": "Stewarttown"
+    },
+    {
+      "area": "Halton",
+      "district": "Milton",
+      "key": "Clarke",
+      "value": "Clarke"
+    },
+    {
+      "area": "Halton",
+      "district": "Milton",
+      "key": "Beaty",
+      "value": "Beaty"
+    },
+    {
+      "area": "Halton",
+      "district": "Milton",
+      "key": "Scott",
+      "value": "Scott"
+    },
+    {
+      "area": "Halton",
+      "district": "Milton",
+      "key": "Harrison",
+      "value": "Harrison"
+    },
+    {
+      "area": "Halton",
+      "district": "Milton",
+      "key": "Willmont",
+      "value": "Willmont"
+    },
+    {
+      "area": "Halton",
+      "district": "Milton",
+      "key": "Coates",
+      "value": "Coates"
+    },
+    {
+      "area": "Halton",
+      "district": "Milton",
+      "key": "Ford",
+      "value": "Ford"
+    },
+    {
+      "area": "Halton",
+      "district": "Milton",
+      "key": "Nassagaweya",
+      "value": "Nassagaweya"
+    },
+    {
+      "area": "Halton",
+      "district": "Milton",
+      "key": "Bronte Meadows",
+      "value": "Bronte Meadows"
+    },
+    {
+      "area": "Halton",
+      "district": "Milton",
+      "key": "Timberlea",
+      "value": "Timberlea"
+    },
+    {
+      "area": "Halton",
+      "district": "Milton",
+      "key": "Cobban",
+      "value": "Cobban"
+    },
+    {
+      "area": "Halton",
+      "district": "Milton",
+      "key": "Dempsey",
+      "value": "Dempsey"
+    },
+    {
+      "area": "Halton",
+      "district": "Oakville",
+      "key": "Bronte East",
+      "value": "Bronte East"
+    },
+    {
+      "area": "Halton",
+      "district": "Oakville",
+      "key": "Bronte West",
+      "value": "Bronte West"
+    },
+    {
+      "area": "Halton",
+      "district": "Oakville",
+      "key": "College Park",
+      "value": "College Park"
+    },
+    {
+      "area": "Halton",
+      "district": "Oakville",
+      "key": "Eastlake",
+      "value": "Eastlake"
+    },
+    {
+      "area": "Halton",
+      "district": "Oakville",
+      "key": "Glen Abbey",
+      "value": "Glen Abbey"
+    },
+    {
+      "area": "Halton",
+      "district": "Oakville",
+      "key": "Iroquois Ridge North",
+      "value": "Iroquois Ridge North"
+    },
+    {
+      "area": "Halton",
+      "district": "Oakville",
+      "key": "Iroquois Ridge South",
+      "value": "Iroquois Ridge South"
+    },
+    {
+      "area": "Halton",
+      "district": "Oakville",
+      "key": "Old Oakville",
+      "value": "Old Oakville"
+    },
+    {
+      "area": "Halton",
+      "district": "Oakville",
+      "key": "River Oaks",
+      "value": "River Oaks"
+    },
+    {
+      "area": "Halton",
+      "district": "Oakville",
+      "key": "Rural Oakville",
+      "value": "Rural Oakville"
+    },
+    {
+      "area": "Halton",
+      "district": "Oakville",
+      "key": "Uptown Centre",
+      "value": "Uptown Centre"
+    },
+    {
+      "area": "Halton",
+      "district": "Oakville",
+      "key": "West Oak Trails",
+      "value": "West Oak Trails"
+    },
+    {
+      "area": "Peel",
+      "district": "Caledon",
+      "key": "Caledon",
+      "value": "Caledon"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Applewood",
+      "value": "Applewood"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Central Erin MIlls",
+      "value": "Central Erin MIlls"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Clarkson",
+      "value": "Clarkson"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Cooksville",
+      "value": "Cooksville"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Creditview",
+      "value": "Creditview"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Churchill Meadows",
+      "value": "Churchill Meadows"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Downtown Mississauga",
+      "value": "Downtown Mississauga"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Central Erin Mills",
+      "value": "Central Erin Mills"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Erin Mills",
+      "value": "Erin Mills"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "East Credit",
+      "value": "East Credit"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Hurontario",
+      "value": "Hurontario"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Lakeview",
+      "value": "Lakeview"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Malton",
+      "value": "Malton"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Meadowvale Village",
+      "value": "Meadowvale Village"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Mineola",
+      "value": "Mineola"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Northeast",
+      "value": "Northeast"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Gateway",
+      "value": "Gateway"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Rathwood",
+      "value": "Rathwood"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Mississauga Valleys",
+      "value": "Mississauga Valleys"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Port Credit",
+      "value": "Port Credit"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Sheridan",
+      "value": "Sheridan"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Erindale",
+      "value": "Erindale"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Lisgar",
+      "value": "Lisgar"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Meadowvale",
+      "value": "Meadowvale"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Meadowvale Business Park",
+      "value": "Meadowvale Business Park"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Malton",
+      "value": "Malton"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Derry West",
+      "value": "Derry West"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Toronto Pearson Airport",
+      "value": "Toronto Pearson Airport"
+    },
+    {
+      "area": "Peel",
+      "district": "Mississauga",
+      "key": "Streetsville",
+      "value": "Streetsville"
+    }
+  ]
