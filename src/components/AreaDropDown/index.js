@@ -8,6 +8,8 @@ const districts = require('../../mockData/districts.json');
 
 const subAreas = require('../../mockData/subAreas.json');
 
+const activeColorFirst = 'bg-sky-500/100';
+const inactiveColorFirst = 'bg-sky-500/50';
 const activeColor = 'bg-gray-300';
 const inactiveColor ='bg-gray-100';
 
@@ -50,6 +52,28 @@ function AreaDropDown() {
         })
     }
   }, []);
+
+  const handleSelectAll = useCallback((district) => {
+    return (event) => {
+        let isSelected = event.target.checked;
+        // todo
+        // setSelectedSubAreas(prevState => {
+        //     if (isSelected) {
+        //         let newState = [...prevState];
+        //         if (prevState.filter(s => s.district == district.key).length <= 0) {
+        //             newState.push();
+        //         }
+        //     } else {
+        //         if (prevState.filter(s => s.key ==subArea.key).length > 0) {
+        //             let newState = [...prevState];
+        //             newState.splice(prevState.findIndex(s => s.key == subArea.key), 1);
+        //             return newState;
+        //         }
+        //     }
+        //     return prevState;
+        // })
+    }
+  }, []);
   
   const handleRemoveArea = (subArea)=>{
     setSelectedSubAreas(prevState => {
@@ -63,7 +87,7 @@ function AreaDropDown() {
   }   
 
   return (
-    <div className="AreaDropDown flex-1 max-w-xs">
+    <div className="AreaDropDown flex-1 max-w-sm">
         <Popover>
             <Popover.Button className="inline-flex justify-center w-full rounded-md border border-gray-300 shadow-sm px-4 py-2 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-100 focus:ring-indigo-500" id="menu-button" aria-expanded="true" aria-haspopup="true">
                 選擇地區 ({selectedSubAreas.length})
@@ -73,21 +97,22 @@ function AreaDropDown() {
             </Popover.Button>
 
             <Popover.Panel className="absolute w-full right-0 z-10 mt-2 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none divide-y divide-solid">
-                <p className="px-4 py-2"><span className="bold">已選擇: </span> 
-                    {selectedSubAreas.map(subArea => 
-                        <SelectedChip subArea={subArea} onRemove={handleRemoveArea}/>
-                    )}
-
-                </p>
-                <div className="areas p-2">
+                <div className="px-4 py-2 "><span className="bold">已選擇: </span> 
+                    <div className="overflow-x-auto">
+                        {selectedSubAreas.map(subArea => 
+                            <SelectedChip subArea={subArea} onRemove={handleRemoveArea}/>
+                        )}
+                    </div>
+                </div>
+                <div className="areas p-2 pb-3 overflow-x-auto flex">
                     {areas.map(area => {
                         let num_subArea_selected = selectedSubAreas.filter(sa => sa.area == area.key).length;
                         return (
                             <button 
                                 className={`
-                                    mx-2 px-2 rounded-full 
+                                    mx-2 px-2 rounded-full text-lg whitespace-nowrap 
                                     ${num_subArea_selected > 0 ? 'font-black': ''} 
-                                    ${!!selectedArea && selectedArea.key == area.key ? activeColor: inactiveColor}
+                                    ${!!selectedArea && selectedArea.key == area.key ? activeColorFirst: inactiveColorFirst}
                                 `} 
                                 onClick={handleClickArea(area)}
                             >
@@ -118,11 +143,15 @@ function AreaDropDown() {
                         )
                     })}
                 </div>}
-                {!!selectedDistrict && <div className="subareas p-2 hidden sm:flex flex-wrap items-center">
-                    {subAreas.filter(a => a.district == selectedDistrict.key).map(sa => 
+                {!!selectedDistrict && <div className="subareas p-2 hidden sm:grid xl:grid-cols-6 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2">
+                    <div className="px-2">
+                        <input className="mx-1" onClick={handleSelectAll(selectedDistrict)} type='checkbox' checked={selectedSubAreas.filter(sa1 => sa1.district == selectedDistrict.key).length == subAreas.filter(a => a.district == selectedDistrict.key).length}/>
+                        <label>Select All</label>
+                    </div>
+                    {subAreas.filter(a => a.district == selectedDistrict.key).sort((a, b) => a.key.localeCompare(b.key)).map(sa => 
                         <div className="px-2">
-                            <label>{sa.value}</label>
                             <input className="mx-1" onClick={handleCheckSubArea(sa)} type='checkbox' checked={selectedSubAreas.findIndex(sa1 => sa1.key == sa.key) > -1}/>
+                            <label>{sa.value}</label>
                         </div>
                     )}
                 </div>}
@@ -165,6 +194,10 @@ function AreaDropDown() {
                                     data-bs-parent="#accordionExample">
                                     <div className="accordion-body py-4 px-5 flex-column">
                                         <div className="subareas p-2 flex-wrap items-center">
+                                            <div>
+                                                <input className="mx-1" onClick={handleSelectAll(d)} type='checkbox' checked={selectedSubAreas.filter(sa1 => sa1.district == d.key).length == subAreas.filter(a => a.district == d.key).length}/>
+                                                <label>Select All</label>
+                                            </div>
                                             {subAreas.filter(a => a.district == d.key).map(sa => 
                                                 <div>
                                                     <input className="mx-1" onClick={handleCheckSubArea(sa)} type='checkbox' checked={selectedSubAreas.findIndex(sa1 => sa1.key == sa.key) > -1}/>
@@ -188,7 +221,7 @@ function AreaDropDown() {
 
 function SelectedChip({ subArea, onRemove }){
     return (
-        <span onClick={()=>onRemove(subArea)} class="pointer-events-auto bg-gray-100 text-gray-800 font-medium inline-flex items-center px-2.5 py-0.5 rounded mr-2 dark:bg-gray-700 dark:text-gray-300">
+        <span onClick={()=>onRemove(subArea)} class="whitespace-nowrap pointer-events-auto bg-gray-100 text-gray-800 font-medium inline-flex items-center px-2.5 py-0.5 rounded mr-2 dark:bg-gray-700 dark:text-gray-300">
             {subArea.value}
             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
         </span>
