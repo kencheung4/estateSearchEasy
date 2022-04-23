@@ -56,22 +56,19 @@ function AreaDropDown() {
   const handleSelectAll = useCallback((district) => {
     return (event) => {
         let isSelected = event.target.checked;
-        // todo
-        // setSelectedSubAreas(prevState => {
-        //     if (isSelected) {
-        //         let newState = [...prevState];
-        //         if (prevState.filter(s => s.district == district.key).length <= 0) {
-        //             newState.push();
-        //         }
-        //     } else {
-        //         if (prevState.filter(s => s.key ==subArea.key).length > 0) {
-        //             let newState = [...prevState];
-        //             newState.splice(prevState.findIndex(s => s.key == subArea.key), 1);
-        //             return newState;
-        //         }
-        //     }
-        //     return prevState;
-        // })
+
+        setSelectedSubAreas(prevState => {
+            if (isSelected) {
+                let newState = [...prevState];
+                newState = newState.filter(s => s.district != district.key);
+                newState = [...newState, ...subAreas.filter(a => a.district == district.key)];
+                return newState;
+            } else {
+                let newState = [...prevState];
+                newState = newState.filter(s => s.district != district.key);
+                return newState;
+            }
+        })
     }
   }, []);
   
@@ -97,14 +94,14 @@ function AreaDropDown() {
             </Popover.Button>
 
             <Popover.Panel className="absolute w-full right-0 z-10 mt-2 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none divide-y divide-solid">
-                <div className="px-4 py-2 "><span className="bold">已選擇: </span> 
-                    <div className="overflow-x-auto">
+                <div className="px-4 py-3 pb-4"><span className="bold">已選擇 {selectedSubAreas.length > 0 ? `(${selectedSubAreas.length})`: ''} : </span> 
+                    <div className="overflow-x-auto flex">
                         {selectedSubAreas.map(subArea => 
                             <SelectedChip subArea={subArea} onRemove={handleRemoveArea}/>
                         )}
                     </div>
                 </div>
-                <div className="areas p-2 pb-3 overflow-x-auto flex">
+                <div className="areas p-2 py-3 pb-4 overflow-x-auto flex">
                     {areas.map(area => {
                         let num_subArea_selected = selectedSubAreas.filter(sa => sa.area == area.key).length;
                         return (
@@ -130,7 +127,7 @@ function AreaDropDown() {
                  */}
 
 
-                {!!selectedArea && <div className="districts p-2 hidden sm:flex flex-wrap">
+                {!!selectedArea && <div className="districts p-2 py-3 pb-4 hidden sm:flex flex-wrap">
                     {districts.filter(d => d.area == selectedArea.key).map(d => {
                         let num_subArea_selected = selectedSubAreas.filter(sa => sa.district == d.key).length;
                         return (
@@ -143,7 +140,7 @@ function AreaDropDown() {
                         )
                     })}
                 </div>}
-                {!!selectedDistrict && <div className="subareas p-2 hidden sm:grid xl:grid-cols-6 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2">
+                {!!selectedDistrict && <div className="subareas p-2 py-3 pb-4 hidden sm:grid xl:grid-cols-6 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2">
                     <div className="px-2">
                         <input className="mx-1" onClick={handleSelectAll(selectedDistrict)} type='checkbox' checked={selectedSubAreas.filter(sa1 => sa1.district == selectedDistrict.key).length == subAreas.filter(a => a.district == selectedDistrict.key).length}/>
                         <label>Select All</label>
@@ -221,7 +218,7 @@ function AreaDropDown() {
 
 function SelectedChip({ subArea, onRemove }){
     return (
-        <span onClick={()=>onRemove(subArea)} class="whitespace-nowrap pointer-events-auto bg-gray-100 text-gray-800 font-medium inline-flex items-center px-2.5 py-0.5 rounded mr-2 dark:bg-gray-700 dark:text-gray-300">
+        <span onClick={()=>onRemove(subArea)} class="whitespace-nowrap cursor-pointer bg-gray-100 text-gray-800 font-medium inline-flex items-center px-2.5 py-0.5 rounded mr-2 dark:bg-gray-700 dark:text-gray-300">
             {subArea.value}
             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
         </span>
